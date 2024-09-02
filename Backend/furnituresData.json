@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Canapé Block",
+        "description": "Canapé 4 places avec méridienne. Avec ses grandes dimensions et son design unique, ce canapé est l'endroit où se reposer avec style dans votre salon.\nRevêtement en velours côtelé grosses côtes, au toucher doux et agréable pour plus de confort.\nLe bois de pin de la structure interne de ce canapé provient de forêts gérées de façon responsable.",
+        "price": 1500,
+        "length": 330,
+        "width": 174,
+        "height": 69,
+        "category_id": 1,
+        "quantity":20,
+        "image": "https://d.media.kavehome.com/image/upload/w_1280,c_fill,g_auto,ar_1.5,f_auto,dpr_2/v1709575640/products/S572LN19_1V01.jpg"
+    },
+    {
+        "name": "Canapé Tanya",
+        "description": "Canapé 2 places avec pieds en acier peint en noire. Revêtement en polyuréthane, antiboulochage et résistant à l'abrasion.",
+        "price": 875,
+        "length": 183,
+        "width": 87,
+        "height": 77,
+        "category_id": 1,
+        "quantity":20,
+        "image": "https://d.media.kavehome.com/image/upload/w_1280,c_fill,g_auto,ar_1.5,f_auto,dpr_2/v1709549024/products/S490PT86_1V01.jpg"
+    },
+    {
+        "name": "Canapé moderne",
+        "description": "Un canapé moderne et confortable.",
+        "price": 499,
+        "length": 200,
+        "width": 90,
+        "height": 85,
+        "category_id": 1,
+        "quantity":20,
+        "image": "https://www.lamaisonconvertible.fr/cdn/shop/files/VITFINNTIS-Photo_20packshot_20canap_C3_A9_20convertible_20Finn_20tissu_20Fluf_20Eucalyptus_202_13c18f96-1728-4e7e-8ccb-d2a002b4319c.jpg?v=1714404722&width=1646"
+    },
+    {
+        "name": "Canapé vintage",
+        "description": "Un canapé au style vintage.",
+        "price": 599,
+        "length": 210,
+        "width": 95,
+        "height": 90,
+        "category_id": 1,
+        "quantity":20,
+        "image": "https://www.produitinterieurbrut.com/temp-pictures/canape-en-cuir-chesterfield-jahn-146180_1600.jpg"
+    },
+    {
+        "name": "Canapé Rumba",
+        "description": "Un canapé au style vintage.",
+        "price": 599,
+        "length": 210,
+        "width": 95,
+        "height": 90,
+        "category_id": 1,
+        "quantity":20,
+        "image": "https://rededition.com/wp-content/uploads/2018/06/Collection-REDEDITION-Cre%CC%81dit-Photo-%C2%A9-Frederic-Lucano-En-vente-www.rededition.comFL-13566-1-e1612795231761-scaled.jpg"
+    },
+    {
+        "name": "Canapé minimaliste",
+        "description": "Un canapé moderne et confortable.",
+        "price": 599,
+        "length": 200,
+        "width": 90,
+        "height": 85,
+        "category_id": 1,
+        "quantity":20,
+        "image": "https://resize.elle.fr/article/var/plain_site/storage/images/deco/pieces/salon/meubles-objets/canape-convertible-design/70436200-9-fre-FR/15-canapes-convertibles-design-pour-allier-style-et-confort.jpg"
+    },
+    {
+        "name": "Canapé moderne",
+        "description": "Un canapé moderne et confortable.",
+        "price": 799,
+        "length": 200,
+        "width": 90,
+        "height": 85,
+        "category_id": 1,
+        "quantity":20,
+        "image": "https://www.homesalons.fr/images/materials/435/original.webp"
+    },
+    {
+        "name": "Chaise Nebai",
+        "description": "Grâce à ses formes solides et imposantes, Nebai suit la tendance des volumes épais tout en conservant un design équilibré par rapport à ses proportions généreuses et un dossier enveloppant qui offre le maximum de confort et de commodité.",
+        "price": 149,
+        "length": 51,
+        "width": 47,
+        "height": 75,
+        "category_id": 2,
+        "image": "https://d.media.kavehome.com/image/upload/w_900,c_fill,ar_0.8,g_auto,f_auto/v1714717534/products/C0100117SO12_1V01.jpg"
+    },
+    {
+        "name": "Chaise de bureau Tissiana",
+        "description": "Chaise de bureau recouverte de tapisserie en chenille.\nSiège aux lignes courbes et accoudoirs.\nSiège pivotant, à roulettes et avec hauteur réglable.",
+        "price": 109,
+        "length": 55,
+        "width": 68,
+        "height": 77,
+        "category_id": 2,
+        "image": "https://d.media.kavehome.com/image/upload/w_900,c_fill,ar_0.8,g_auto,f_auto/v1709557285/products/C0200006BF15_1V01.jpg"
+    },
+    {
+        "name": "Table Argo",
+        "description": "La singularité d’Argo réside dans sa base unique : des pieds entrecroisés qui lui apportent élégance, fermeté et confort. De plus, Argo adopte la forme et les dimensions qui conviennent le mieux à votre espace. Des silhouettes linéaires ou des contours arrondis ? Choisissez le design qui s’adapte le mieux à votre espace et apportez une touche de modernité à votre intérieur.",
+        "price": 489,
+        "length": 180,
+        "width": 100,
+        "height": 75,
+        "category_id": 3,
+        "image": "https://d.media.kavehome.com/image/upload/w_900,c_fill,ar_0.8,g_auto,f_auto/v1717399718/products/C409C01_1V01.jpg"
+    },
+    {
+        "name": "Table Lenon",
+        "description": "La collection Lenon transmet élégance et polyvalence grâce à son design aux bords arrondis et aux reliefs de ses portes. Collection réalisée en placage et bois de chêne et disponible en finition naturelle et noire. Lenon est idéale pour créer des atmosphères chaleureuses et modernes dans tous les types d’espace.",
+        "price": 1280,
+        "length": 200,
+        "width": 90,
+        "height": 77,
+        "category_id": 3,
+        "image": "https://d.media.kavehome.com/image/upload/w_900,c_fill,ar_0.8,g_auto,f_auto/v1714718486/products/T0200008MM40_1V01.jpg"
+    }
+]
